@@ -15,6 +15,66 @@ Redes:<br>
 
 Thank you for your visit ✨
 
+
+-------------------------
+
+
+👋 ¡Hola! Bienvenido a mi perfil
+Soy Santiago ✨
+
+🌱 "En la programación encuentro la unión entre el arte y la lógica, dos pasiones que cultivo desde niño."
+
+🚀 Sobre mí
+
+💻 Desarrollador Full Stack enfocado en la creación de aplicaciones web modernas.
+📚 En constante aprendizaje, mejorando tanto en frontend como en backend.
+🤝 Abierto a colaborar en proyectos desafiantes que aporten crecimiento profesional.
+
+🛠️ Tecnologías
+
+HTML CSS JavaScript TypeScript Angular Bootstrap
+
+Java Spring Boot Maven
+
+MySQL Git REST APIs
+
+📌 Proyectos Destacados
+
+🔹 Nombre del Proyecto 1
+Breve descripción del proyecto (qué hace, tecnologías usadas).
+👉 https://github.com/TU_USUARIO/proyecto1
+
+🔹 Nombre del Proyecto 2
+Breve descripción del proyecto.
+👉 https://github.com/TU_USUARIO/proyecto2
+
+🔹 Nombre del Proyecto 3
+Breve descripción del proyecto.
+👉 https://github.com/TU_USUARIO/proyecto3
+
+📌 Actualmente
+
+🔹 Mejorando arquitectura backend con Spring Boot
+
+🔹 Desarrollando aplicaciones en tiempo real (WebSockets)
+
+🔹 Escribiendo código limpio y testeable
+
+🎯 Objetivos
+
+✨ Participar en proyectos de impacto
+
+✨ Seguir creciendo como desarrollador
+
+✨ Aprender nuevas tecnologías y buenas prácticas
+
+🌐 Contacto
+
+💼 LinkedIn:
+👉 Mi perfil
+
+✨ ¡Gracias por visitar mi perfil!
+
 <!--
 **SantiagoCastellaniDev/SantiagoCastellaniDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
