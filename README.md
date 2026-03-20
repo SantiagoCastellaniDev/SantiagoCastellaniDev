@@ -8,7 +8,7 @@
 HTML - CSS - Javascript - Typescript - Bootstrap - Angular - Material<br>
 Java - SpringBoot - Maven - Swing - MySQL - PostgreSQL<br>
 Jest - Junit - Mockito<br>
-Jenkins - SonarQube - DevSecOps - Scrum
+Jenkins - SonarQube - DevSecOps - Checkmarx - Scrum
 
 💻 Actualmente, desempeñandome como Desarrollador Full Stack Angular-Java. 
 
