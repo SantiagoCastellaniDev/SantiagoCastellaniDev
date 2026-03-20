@@ -17,7 +17,7 @@ Jenkins - SonarQube - DevSecOps - Scrum
 💬 Abierto a colaborar en nuevos proyectos que permitan sumar aprendizaje.
 
 Redes:<br>
-[In](https://www.linkedin.com/in/santiagocastellani/)
+[In](https://www.linkedin.com/in/santiagocastellani/)<br>
 
 ✨ Thank you for your visit ✨
 
