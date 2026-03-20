@@ -5,8 +5,10 @@
 🌱 *"En la programación encuentro la unión entre el arte y la lógica, dos pasiones que desde niño cultivo."*
 
 SKILLS:<br>
-HTML - CSS - Javascript - Typescript - Bootstrap - Angular<br>
-Java - SpringBoot - Maven - Swing - MySQL
+HTML - CSS - Javascript - Typescript - Bootstrap - Angular - Material<br>
+Java - SpringBoot - Maven - Swing - MySQL - PostgreSQL<br>
+Jest - Junit - Mockito<br>
+Jenkins - SonarQube - DevSecOps - Scrum
 
 💬 Abierto a colaborar en proyectos que permitan sumar aprendizaje.
 
