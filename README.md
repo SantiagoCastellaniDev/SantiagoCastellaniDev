@@ -4,18 +4,22 @@
 
 🌱 *"En la programación encuentro la unión entre el arte y la lógica, dos pasiones que desde niño cultivo."*
 
-SKILLS:<br>
+🛠️ SKILLS:<br>
 HTML - CSS - Javascript - Typescript - Bootstrap - Angular - Material<br>
 Java - SpringBoot - Maven - Swing - MySQL - PostgreSQL<br>
 Jest - Junit - Mockito<br>
 Jenkins - SonarQube - DevSecOps - Scrum
 
-💬 Abierto a colaborar en proyectos que permitan sumar aprendizaje.
+💻 Actualmente, desempeñandome como Desarrollador Full Stack Angular-Java. 
+
+🚀 En constante aprendizaje, sumando nuevas tecnologías.
+
+💬 Abierto a colaborar en nuevos proyectos que permitan sumar aprendizaje.
 
 Redes:<br>
 [In](https://www.linkedin.com/in/santiagocastellani/)
 
-Thank you for your visit ✨
+✨ Thank you for your visit ✨
 
 <!--
 -------------------------
