@@ -15,7 +15,7 @@ Redes:<br>
 
 Thank you for your visit ✨
 
-
+<!--
 -------------------------
 
 
@@ -74,7 +74,7 @@ Breve descripción del proyecto.
 👉 Mi perfil
 
 ✨ ¡Gracias por visitar mi perfil!
-
+-->
 <!--
 **SantiagoCastellaniDev/SantiagoCastellaniDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
